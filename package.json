@@ -1,0 +1,23 @@
+{
+  "name": "docker-node-express",
+  "version": "1.0.0",
+  "description": "gettin started  with docker through this amazing course - https://www.youtube.com/watch?v=9zUHg7xjIqQ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issa-me-sush/docker-node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/issa-me-sush/docker-node-express/issues"
+  },
+  "homepage": "https://github.com/issa-me-sush/docker-node-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
